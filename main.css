@@ -1,0 +1,27 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Chakra Petch', sans-serif;
+    color: gold;
+    background-color: darkslategray;
+}
+
+.padding
+{
+    padding: 1em;
+}
+
+.tcenter
+{
+    text-align: center;
+}
+
+.column
+{
+    display: flex;
+    flex-direction: column;
+}
+
+
